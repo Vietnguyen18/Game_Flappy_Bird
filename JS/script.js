@@ -81,8 +81,7 @@ $(function() {
     $('#exit_btn').click(function() {
         window.close();
     });
-
-
+    
     function collision($div1, $div2) {
         var x1 = $div1.offset().left;
         var y1 = $div1.offset().top;
