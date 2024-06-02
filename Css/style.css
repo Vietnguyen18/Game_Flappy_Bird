@@ -76,7 +76,7 @@ body{
     text-align: center;
     border-radius: 10px;
     z-index: 1000;
-    display: none;
+    display: none
 }
 #game_over_message button {
     margin: 10px;
